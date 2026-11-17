@@ -11,7 +11,7 @@ Public reproducibility materials for **Auditing Multi-Proxy Explanations of Web 
 - [Fixed release v1.0.0](https://github.com/user-growth-lab/MultiProxyPreferenceAudit/releases/tag/v1.0.0)
 - [Complete 40-file package: MultiProxyPreferenceAudit-v1.0.0.zip](https://github.com/user-growth-lab/MultiProxyPreferenceAudit/releases/download/v1.0.0/MultiProxyPreferenceAudit-v1.0.0.zip)
 
-The complete code is provided as the named release asset above. This repository branch is a landing page; GitHub's automatically generated **Source code** archives contain this landing page, not the complete experimental package. Download the named asset, extract it, and enter its `MultiProxyPreferenceAudit/` directory.
+The complete code is provided as the named release asset above. This repository branch is a landing page; GitHub's automatically generated **Source code** archives contain this landing page, not the complete experimental package. Download the named asset, extract it, and enter its `MultiProxyPreferenceAudit-v1.0.0/` directory.
 
 ZIP SHA-256:
 
